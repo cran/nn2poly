@@ -1,7 +1,7 @@
-694708f860f5b8c525e8750b959a8551 *DESCRIPTION
+c4eadca00b10320c5e6d6f411552c051 *DESCRIPTION
 118cb1ee17020fec9f99cae9ded596e9 *LICENSE
 2c92d950bdaea1bdb366d2c699cb6527 *NAMESPACE
-19283c678aee5ea8f55c37249ec18617 *NEWS.md
+1f93c2408ae3c686123a160dba81d4da *NEWS.md
 c2765793ed51a3722dc444d79c9af4d5 *R/RcppExports.R
 e8369af455281dd57d25567ed8cf5b93 *R/callback.R
 77f9bce301bfeffae9dcf5ecd05a268f *R/constraints.R
@@ -58,7 +58,7 @@ ec7b923564e7eb001a070cad8cbea1bc *tests/testthat/setup.R
 a478e43d313489376d9615dcc2f000ad *tests/testthat/test-constraints.R
 e855718dadb79f8aaf67f798b01ef921 *tests/testthat/test-constraints_luz.R
 3aef46e556ed4f657aaf9cd1d6be9927 *tests/testthat/test-eval_poly.R
-5f5784fe64ef637c2739a35af8165d69 *tests/testthat/test-nn2poly.R
+756e28e073cf39046a896c24839d7f0e *tests/testthat/test-nn2poly.R
 fea3cbc7fb694a4e9bd9be4ac39086d4 *tests/testthat/test-nn2poly_algorithm.R
 d6433eec5c21cf97357f264ba985242a *tests/testthat/test-nn2poly_methods_plot.R
 63ba1f6c929e35a578c6f897cc349589 *tests/testthat/test-nn2poly_methods_predict.R
